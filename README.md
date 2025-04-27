@@ -1,22 +1,10 @@
-
-                                                                                                                                                                                              
-                                                                                                                                                                                              
-DDDDDDDDDDDDD             OOOOOOOOO     BBBBBBBBBBBBBBBBB   EEEEEEEEEEEEEEEEEEEEEERRRRRRRRRRRRRRRRR   MMMMMMMM               MMMMMMMM               AAA               NNNNNNNN        NNNNNNNN
-D::::::::::::DDD        OO:::::::::OO   B::::::::::::::::B  E::::::::::::::::::::ER::::::::::::::::R  M:::::::M             M:::::::M              A:::A              N:::::::N       N::::::N
-D:::::::::::::::DD    OO:::::::::::::OO B::::::BBBBBB:::::B E::::::::::::::::::::ER::::::RRRRRR:::::R M::::::::M           M::::::::M             A:::::A             N::::::::N      N::::::N
-DDD:::::DDDDD:::::D  O:::::::OOO:::::::OBB:::::B     B:::::BEE::::::EEEEEEEEE::::ERR:::::R     R:::::RM:::::::::M         M:::::::::M            A:::::::A            N:::::::::N     N::::::N
-  D:::::D    D:::::D O::::::O   O::::::O  B::::B     B:::::B  E:::::E       EEEEEE  R::::R     R:::::RM::::::::::M       M::::::::::M           A:::::::::A           N::::::::::N    N::::::N
-  D:::::D     D:::::DO:::::O     O:::::O  B::::B     B:::::B  E:::::E               R::::R     R:::::RM:::::::::::M     M:::::::::::M          A:::::A:::::A          N:::::::::::N   N::::::N
-  D:::::D     D:::::DO:::::O     O:::::O  B::::BBBBBB:::::B   E::::::EEEEEEEEEE     R::::RRRRRR:::::R M:::::::M::::M   M::::M:::::::M         A:::::A A:::::A         N:::::::N::::N  N::::::N
-  D:::::D     D:::::DO:::::O     O:::::O  B:::::::::::::BB    E:::::::::::::::E     R:::::::::::::RR  M::::::M M::::M M::::M M::::::M        A:::::A   A:::::A        N::::::N N::::N N::::::N
-  D:::::D     D:::::DO:::::O     O:::::O  B::::BBBBBB:::::B   E:::::::::::::::E     R::::RRRRRR:::::R M::::::M  M::::M::::M  M::::::M       A:::::A     A:::::A       N::::::N  N::::N:::::::N
-  D:::::D     D:::::DO:::::O     O:::::O  B::::B     B:::::B  E::::::EEEEEEEEEE     R::::R     R:::::RM::::::M   M:::::::M   M::::::M      A:::::AAAAAAAAA:::::A      N::::::N   N:::::::::::N
-  D:::::D     D:::::DO:::::O     O:::::O  B::::B     B:::::B  E:::::E               R::::R     R:::::RM::::::M    M:::::M    M::::::M     A:::::::::::::::::::::A     N::::::N    N::::::::::N
-  D:::::D    D:::::D O::::::O   O::::::O  B::::B     B:::::B  E:::::E       EEEEEE  R::::R     R:::::RM::::::M     MMMMM     M::::::M    A:::::AAAAAAAAAAAAA:::::A    N::::::N     N:::::::::N
-DDD:::::DDDDD:::::D  O:::::::OOO:::::::OBB:::::BBBBBB::::::BEE::::::EEEEEEEE:::::ERR:::::R     R:::::RM::::::M               M::::::M   A:::::A             A:::::A   N::::::N      N::::::::N
-D:::::::::::::::DD    OO:::::::::::::OO B:::::::::::::::::B E::::::::::::::::::::ER::::::R     R:::::RM::::::M               M::::::M  A:::::A               A:::::A  N::::::N       N:::::::N
-D::::::::::::DDD        OO:::::::::OO   B::::::::::::::::B  E::::::::::::::::::::ER::::::R     R:::::RM::::::M               M::::::M A:::::A                 A:::::A N::::::N        N::::::N
-DDDDDDDDDDDDD             OOOOOOOOO     BBBBBBBBBBBBBBBBB   EEEEEEEEEEEEEEEEEEEEEERRRRRRRR     RRRRRRRMMMMMMMM               MMMMMMMMAAAAAAA                   AAAAAAANNNNNNNN         NNNNNNN      
+░▒▓███████▓▒░ ░▒▓██████▓▒░░▒▓███████▓▒░░▒▓████████▓▒░▒▓███████▓▒░░▒▓██████████████▓▒░ ░▒▓██████▓▒░░▒▓███████▓▒░                                                                                                                         
+░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░                                                                                                                        
+░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░                                                                                                                       
+░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓███████▓▒░░▒▓██████▓▒░ ░▒▓███████▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓████████▓▒░▒▓█▓▒░░▒▓█▓▒░                                                                                                                         
+░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░                                                                                                                       
+░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░                                                                                                                       
+░▒▓███████▓▒░ ░▒▓██████▓▒░░▒▓███████▓▒░░▒▓████████▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░                                                                                                                      
 *Before you use it, it's better to go straight to the "Dog" folder because there the code has become all-in-one. But if you want to use it one by one, that's also possible (if you use it one by one, for the IP in "portfinder.py" you should change it first)*
 
 
