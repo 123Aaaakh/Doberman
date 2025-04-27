@@ -6,8 +6,6 @@ ______ ___________ ______________  ___  ___   _   _
 | |/ /\ \_/ / |_/ / |___| |\ \| |  | || | | || |\  |
 |___/  \___/\____/\____/\_| \_\_|  |_/\_| |_/\_| \_/
                                                     
-                                                    
-
 *Before you use it, it's better to go straight to the "Dog" folder because there the code has become all-in-one. But if you want to use it one by one, that's also possible (if you use it one by one, for the IP in "portfinder.py" you should change it first)*
 
 
