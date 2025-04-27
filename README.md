@@ -9,7 +9,8 @@
 ```                                                                                                                     
 *Before you use it, it's better to go straight to the "Dog" folder because there the code has become all-in-one. But if you want to use it one by one, that's also possible (if you use it one by one, for the IP in "portfinder.py" you should change it first)*
 
-
+<img align="center" alt="Cyber Security GIF" src="![Screenshot_2025-04-28_05-57-51](https://github.com/user-attachments/assets/696b18e0-5176-4964-a811-623382e7725b)
+" width="500" /
 
 
 # [:]Doberman Scanner
