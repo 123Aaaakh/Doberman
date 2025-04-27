@@ -97,7 +97,7 @@ pip install colorama requests
 
 ## 🔹 Example Run
 ```bash
--> cd Doberman/
+-> cd TheDog/
 -> cd Dog/
 -> sudo python3 Dobberman.py
 ```
