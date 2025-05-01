@@ -107,7 +107,7 @@ pip install colorama requests
 ## 🔹 To exit monitor mode
 ```bash
 chmod +x monitor.sh
-sudo ./monitor.sh {Your Interface}
+sudo ./monitor.sh {Your Interface} stop
 ```
 
 ---
